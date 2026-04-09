@@ -1,12 +1,12 @@
 # Hi, I'm Anirudh! 👋 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJpbmZ1ZXJvYnN0ZzhvMWI1eHlyejlxZTVidXIzZTVidXIzZTVidXImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPqcK9C7wY9i/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjdlajQ5MGJpMG11dndid3I5bmRoZ25rczhka3VpZno0NXp1cWZjMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jTZMPc5aE4AKlt5OVW/giphy.gif" width="1000">
 </p>
 
 ### 🧐 Who am I?
 - 💼 **SDE @ NetApp**: Spending my days managing storage systems and my nights managing my caffeine levels.
-- 🎓 **Class of 2025**: Successfully escaped university. Now learning that "Real World" debugging is just university debugging but with higher stakes and better pay.
+- 🎓 **Class of 2025**: Successfully escaped university. Now learning that "Real World" debugging is not just university debugging, but with higher stakes and better pay.
 - 🛠️ **Problem Solver**: I build AI systems to answer my phone because I’m too introverted for real-time conversation.
 
 ### 🏠 Life at NetApp (and beyond):
