@@ -1,7 +1,7 @@
 # Hi, I'm Anirudh! 👋 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXFodmJmYXh3emtqMGpxb2w0Y3g5dG96c3BpYmdjOHltNTB4b3owNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6pYbw8HkA2SO5UKZYj/giphy.gif" width="1000">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVrcGs2am00ZTJ2cGZtOXd0emw3Nzc0MGxpNXJ1anZlYWZ3MHdlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dJo9h2zrdANo1GO3pd/giphy.gif" width="850">
 </p>
 
 ### 🧐 Who am I?
